@@ -1,5 +1,5 @@
 # sNNarXiv-1.0
-A Recursive Neural Network to generate High Energy Theory abstracts (https://dlvp.github.io/Physics-snnarxiv/)
+A Recurrent Neural Network to generate High Energy Theory abstracts (https://dlvp.github.io/Physics-snnarxiv/)
 
 ## Content
 I uploade all the notebook to train the RNN and use it to generate text. On the other hand neither the corpus, nor the trained parameters for the RNN are attached below. For those, contact me privately.
